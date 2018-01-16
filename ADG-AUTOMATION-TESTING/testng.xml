@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="allTesting._27ShareMenu_MyR_Fund"/>
+      <class name="allTesting._17PocketsMenu_MyE_CASHlist"/>
+      <class name="allTesting._21PocketsMenu__AssignMemberE_PTS"/>
+      <class name="allTesting._14PocketsMenu_MyE_PTSlist"/>
+      <class name="allTesting._24PocketsMenu__CashOutDiamondGuarantee"/>
+      <class name="allTesting._34TradeMenu_SellShares"/>
+      <class name="allTesting._16PocketsMenu_MyR_PTSlist"/>
+      <class name="allTesting._36MainMenu_ManageNews"/>
+      <class name="allTesting._12MainMenu_ChangeMemberBankAccount"/>
+      <class name="allTesting._13PocketsMenu_MyA_PTSlist"/>
+      <class name="allTesting._42MainMenu_ManageCodeTable"/>
+      <class name="allTesting._48MainMenu_TradeSettings"/>
+      <class name="allTesting._06MembersMenu_ReferredMembers"/>
+      <class name="allTesting._08MembersMenu_ReferralsTreeView"/>
+      <class name="allTesting._05MembersMenu_BinaryLRtreeView_AddNewMember"/>
+      <class name="allTesting._02News"/>
+      <class name="allTesting._38ManageNews_EditNews"/>
+      <class name="allTesting._28ShareMenu_MyShares"/>
+      <class name="allTesting._32TradeMenu_AllMembeHistoryTrades"/>
+      <class name="allTesting._29TradeMenu_MyOpenTrades"/>
+      <class name="allTesting._09MemberMenu_BinaryLRtreeView"/>
+      <class name="allTesting._41ManageEvents_AddEvent"/>
+      <class name="allTesting._40MainMenu_ManageEvents"/>
+      <class name="allTesting._30TradeMenu_MyHistoryTrades"/>
+      <class name="allTesting._11MemberMenu_ResetMemberPassword"/>
+      <class name="allTesting._45ManageCodeTable_DeleteCode"/>
+      <class name="allTesting._10MainMenu_ChangePassWord"/>
+      <class name="allTesting._04MembersMenu_ReferNewMember"/>
+      <class name="allTesting._35MainMenu_MembersMenu"/>
+      <class name="allTesting._31TradeMenu_AllMemberOpenTrades"/>
+      <class name="allTesting._33TradeMenu_BuyShares"/>
+      <class name="allTesting._07MembersMenu_BinaryLRMember"/>
+      <class name="allTesting._22PocketsMenu__Admin_E_PTS_Record"/>
+      <class name="allTesting._37ManageNews_AddNews"/>
+      <class name="allTesting._03MembersMenu_MyProfile"/>
+      <class name="allTesting._44ManageCodeTable_EditCode"/>
+      <class name="allTesting._25ShareMenu_MyE_Fund"/>
+      <class name="allTesting._47MainMenu_SeqnumTable"/>
+      <class name="allTesting._19PocketsMenu_E_CashToA_PTS"/>
+      <class name="allTesting._15PocketsMenu_MyS_PTSlist"/>
+      <class name="allTesting._23PocketsMenu__AdminCashOutInCash"/>
+      <class name="allTesting._26ShareMenu_MyP_Fund"/>
+      <class name="allTesting._43ManageCodeTable_AddCode"/>
+      <class name="allTesting._01Login"/>
+      <class name="allTesting._18PocketsMenu_My_Pocket"/>
+      <class name="allTesting._20PocketsMenu__A_PTSToE_PTS"/>
+      <class name="allTesting._39ManageNews_DeleteNews"/>
+      <class name="allTesting._46ManageCodeTable_ManageDeletedCodes"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
